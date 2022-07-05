@@ -1,0 +1,5 @@
+{
+  "folder": "/",
+  "template": "template/zettel",
+  "format": "\\z-YYYY-MM-DD-hh:mm"
+}

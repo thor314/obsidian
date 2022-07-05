@@ -1,0 +1,19 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "newFileLocation": "root",
+  "showLineNumber": true,
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "/media",
+  "vimMode": true,
+  "tabSize": 4,
+  "readableLineLength": false,
+  "showFrontmatter": false,
+  "defaultViewMode": "source",
+  "fileSortOrder": "byModifiedTime",
+  "autoPairMarkdown": false,
+  "autoPairBrackets": false
+}
