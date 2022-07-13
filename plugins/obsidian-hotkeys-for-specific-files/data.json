@@ -1,10 +1,7 @@
 {
   "files": [
-    "n-Obsidian_Keybinds_and_notes.md",
     "n-VScode_Keybinds.md",
     "a-zk-mesh-links.md",
-    "a-notable-blogposts-and-misc-references.md",
-    "n-Obsidian-extension-notes.md",
     "n-VScode-usage-notes.md",
     "a-blockchain-references.md",
     "a-economics-references.md",
@@ -13,7 +10,9 @@
     "a-goals-dashboard.md",
     "template/journal.md",
     "template/weekly.md",
-    "template/monthly.md"
+    "template/monthly.md",
+    "template/quarterly.md",
+    "template/yearly.md"
   ],
   "useExistingPane": true
 }

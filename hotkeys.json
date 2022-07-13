@@ -84,12 +84,6 @@
   "obsidian-languagetool-plugin:ltcheck-text": [
     {
       "modifiers": [
-        "Mod"
-      ],
-      "key": "F8"
-    },
-    {
-      "modifiers": [
         "Alt"
       ],
       "key": "L"
@@ -110,14 +104,7 @@
       "key": "L"
     }
   ],
-  "app:show-debug-info": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "F9"
-    }
-  ],
+  "app:show-debug-info": [],
   "obsidian-git:push": [
     {
       "modifiers": [
@@ -881,7 +868,15 @@
       "key": "F11"
     }
   ],
-  "periodic-notes:next-yearly-note": [],
+  "periodic-notes:next-yearly-note": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F8"
+    }
+  ],
   "periodic-notes:prev-quarterly-note": [
     {
       "modifiers": [
